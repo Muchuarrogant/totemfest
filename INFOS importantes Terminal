@@ -8,3 +8,8 @@ git push
 
 rajouter un gem puis ..
 bundle install 
+
+
+Creating app... done, stack is cedar-14
+https://sleepy-citadel-83718.herokuapp.com/ | https://git.heroku.com/sleepy-citadel-83718.git
+MacBook-Air-de-Victor:totemfest victormatei$ git status
