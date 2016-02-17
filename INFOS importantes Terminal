@@ -1,0 +1,10 @@
+INFOS 
+
+A chaque sauvegarde sur git : 
+
+git add --all
+git commit -am ""
+git push
+
+rajouter un gem puis ..
+bundle install 
